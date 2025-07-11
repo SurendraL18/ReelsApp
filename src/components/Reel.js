@@ -1,4 +1,4 @@
-// Updated Reel component with improved UI and spacing
+
 import React from 'react';
 import { View, Text, StyleSheet, Dimensions, TouchableOpacity, Image } from 'react-native';
 import Video from 'react-native-video';
